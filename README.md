@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 , The Styling is made with [TailwindCSS](https://tailwindcss.com/)
 , The App is deployed on [Vercel](https://vercel.com/)
 
-you can visit the website at [https://estate-observer.vercel.app/](https://estate-observer.vercel.app/)
+you can visit the website at [braingenix.vercel.app](https://braingenix.vercel.app/)
 
 ## Homepage Page
 
