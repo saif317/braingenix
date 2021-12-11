@@ -1,9 +1,9 @@
 ## A Simple Search Engine
 
-[Estate Observer](https://estate-observer.vercel.app/) is an app for finding estate available for buying or renting, you can filter your searches of the estates and find the proper home for yourself
+[Braingenix](https://braingenix.vercel.app/) is a simple search engine app, you can use it to search for anything on the internet using [Google Search API](https://rapidapi.com/apigeek/api/google-search3/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-, The Styling is made with [Chakra-ui](https://chakra-ui.com/) and [Emotion](https://emotion.sh/docs/introduction)
+, The Styling is made with [TailwindCSS](https://tailwindcss.com/)
 , The App is deployed on [Vercel](https://vercel.com/)
 
 you can visit the website at [https://estate-observer.vercel.app/](https://estate-observer.vercel.app/)
@@ -12,10 +12,6 @@ you can visit the website at [https://estate-observer.vercel.app/](https://estat
 
 <img src='./pic1.png' width='300px'/>
 
-## Search Page
+## Image Search
 
 <img src='./pic2.png' width='300px'/>
-
-## Property Page
-
-<img src='./pic3.png' width='300px'/>
